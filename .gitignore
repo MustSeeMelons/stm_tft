@@ -1,0 +1,24 @@
+# Build output
+Debug/
+Release/
+
+# Eclipse workspace metadata
+.metadata/
+.recommenders/
+.settings/
+
+# Generated backup files
+*.bak
+
+*.tmp
+*.log
+*.swp
+*.swo
+*~
+
+*.elf
+*.map
+*.list
+
+*.hex
+*.bin
